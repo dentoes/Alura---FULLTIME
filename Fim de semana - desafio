@@ -1,0 +1,8 @@
+DiadaSemana = prompt('Qual é o dia da semana?');
+if (DiadaSemana == 'Sábado') {
+   alert('Bom fim de semana!')
+} else if (DiadaSemana = 'Domingo') {
+    alert('Bom fim de semana!') 
+} else {
+    alert('Boa semana!')
+}
