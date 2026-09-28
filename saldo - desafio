@@ -1,0 +1,2 @@
+let saldo = 3500
+alert(`O seu saldo é: ${saldo}`)
