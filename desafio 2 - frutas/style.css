@@ -1,4 +1,4 @@
-body {
+/* body {
     margin: 0;
     display: flex;
     justify-content: center;
@@ -10,6 +10,34 @@ button {
     background-color: red;
     color: white;
     border: none;
-    padding: 15px 30px;
+    padding: 50px 50px;
     cursor: pointer;
+}
+
+button {
+    border-radius: 100px;
+  } */
+
+  body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 90px 90px;
+    cursor: pointer;
+    border-radius: 100px;
+}
+
+#listaDeFrutas{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: black;
 }
